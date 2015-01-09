@@ -18,5 +18,7 @@ Example:
 ## Contributors
 
 [David Haskins](http://haskinspr.com)
+
 [Hayden Haskins](http://haydenhaskins.com)
+
 [Benjamin Matthews](http://benjaminmatthews.com)
