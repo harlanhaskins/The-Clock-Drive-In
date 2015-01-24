@@ -22,3 +22,5 @@ Example:
 [Hayden Haskins](http://haydenhaskins.com)
 
 [Benjamin Matthews](http://benjaminmatthews.com)
+
+[Harlan Haskins](https://harlanhaskins.com)
